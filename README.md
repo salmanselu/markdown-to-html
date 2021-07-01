@@ -7,4 +7,5 @@ Attempt to create a markdown to html converter
 - [ ] Learn some RegEx
 
 
-___test___
+___te
+ st___

@@ -7,5 +7,3 @@ Attempt to create a markdown to html converter
 - [ ] Learn some RegEx
 
 
-Cfdfred ___te
- st___
